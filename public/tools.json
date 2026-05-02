@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Resume Builder Pro",
+    "description": "Create professional resumes with AI-powered suggestions.",
+    "price": 9.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "100+ templates",
+      "ATS optimization",
+      "Export to PDF"
+    ],
+    "icon": "FileText"
+  },
+  {
+    "id": 2,
+    "name": "Portfolio Maker",
+    "description": "Build a stunning personal portfolio in minutes.",
+    "price": 19.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Custom domains",
+      "Drag & drop builder",
+      "SEO optimization"
+    ],
+    "icon": "Layout"
+  },
+  {
+    "id": 3,
+    "name": "Cover Letter Generator",
+    "description": "Generate tailored cover letters instantly.",
+    "price": 4.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "AI suggestions",
+      "Job-specific templates",
+      "Export to PDF"
+    ],
+    "icon": "Mail"
+  },
+  {
+    "id": 4,
+    "name": "LinkedIn Optimizer",
+    "description": "Improve your LinkedIn profile visibility.",
+    "price": 14.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Keyword optimization",
+      "Profile scoring",
+      "Content suggestions"
+    ],
+    "icon": "Linkedin"
+  },
+  {
+    "id": 5,
+    "name": "Interview Prep Kit",
+    "description": "Practice interviews with real-world questions.",
+    "price": 29.99,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Mock interviews",
+      "Answer tips",
+      "Performance feedback"
+    ],
+    "icon": "Mic"
+  },
+  {
+    "id": 6,
+    "name": "Freelancer Toolkit",
+    "description": "All-in-one toolkit for freelancers.",
+    "price": 12.99,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": [
+      "Invoice generator",
+      "Client management",
+      "Contract templates"
+    ],
+    "icon": "Briefcase"
+  },
+  {
+    "id": 7,
+    "name": "Job Tracker",
+    "description": "Track all your job applications in one place.",
+    "price": 7.99,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": [
+      "Application tracking",
+      "Status updates",
+      "Reminders"
+    ],
+    "icon": "CheckSquare"
+  },
+  {
+    "id": 8,
+    "name": "Skill Booster",
+    "description": "Learn in-demand skills with guided courses.",
+    "price": 49.99,
+    "period": "yearly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": [
+      "Expert-led courses",
+      "Certificates",
+      "Lifetime access"
+    ],
+    "icon": "TrendingUp"
+  }
+]
