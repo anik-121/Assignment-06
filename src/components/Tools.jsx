@@ -13,8 +13,8 @@ const Tools = () => {
                     <br /> to boost your productivity and creativity.
                 </p>
                 <div className="space-x-3">
-                    <button className="btn">Products</button>
-                    <button className="btn">Cart</button>
+                    <button className="btn bg-gradient-to-r from-[#4f39f6] to-[#9514fa] text-white font-semibold px-6 py-3 rounded-full text-sm">Products</button>
+                    <button className="btn  px-6 py-3 rounded-full text-sm">Cart</button>
                 </div>
             </div>
 

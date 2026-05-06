@@ -72,13 +72,13 @@ import bannerImg from '/banner.png'
 const Banner = () => {
   return (
     <>
-      {/* Hero */}
+      
       <div className='grid grid-cols-2 items-center px-16 py-16'>
 
-        {/* Left */}
+        
         <div className="flex flex-col gap-4">
 
-          {/* Badge */}
+          
           <div className="inline-flex w-fit items-center bg-indigo-100 rounded-full px-3 py-1.5">
             <span className="relative flex h-2.5 w-2.5">
               <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-purple-400 opacity-75" />
@@ -89,12 +89,12 @@ const Banner = () => {
             </p>
           </div>
 
-          {/* Heading */}
+          
           <h1 className="text-6xl text-[#101727] font-bold leading-tight">
             Supercharge Your <br /> Digital Workflow
           </h1>
 
-          {/* Subtext */}
+         
           <p className="text-[#627382]">
             Access premium AI tools, design assets, templates, and productivity <br />
             software—all in one place. Start creating faster today. <br />
@@ -107,7 +107,7 @@ const Banner = () => {
               Explore Products
             </button>
             <button className="bg-gradient-to-r from-[#4932f5] to-[#9413f7] bg-clip-text text-transparent flex items-center gap-2 border border-gray-300 hover:border-purple-400 font-semibold px-6 py-3 rounded-full text-sm">
-              ▶ Watch Demo
+              Watch Demo
             </button>
           </div>
 
