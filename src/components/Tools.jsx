@@ -56,9 +56,9 @@ const Tools = ({ cart, setCart, handleAddToCart }) => {
                                         {cart.map((tool) => (
                                             <div key={tool.id} className="flex items-center justify-between bg-gray-50 rounded-xl px-4 md:px-5 py-3 md:py-4">
                                                 <div className="flex items-center gap-3 md:gap-4">
-                                                    <div className="bg-purple-100 p-2 rounded-lg flex-shrink-0">
+                                                    {/* <div className="bg-purple-100 p-2 rounded-lg flex-shrink-0">
                                                         <img src={`/${tool.image}`} alt={tool.name} className="w-7 h-7 md:w-8 md:h-8 object-contain" />
-                                                    </div>
+                                                    </div> */}
                                                     <div>
                                                         <p className="font-semibold text-sm">{tool.name}</p>
                                                         <p className="text-gray-500 text-sm">${tool.price}</p>
